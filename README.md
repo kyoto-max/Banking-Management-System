@@ -38,11 +38,7 @@ This is a simple banking system written in C++. You can open accounts, check bal
 - Use a real database instead of text files  
 - Make the interface easier to use
 
----
 
-## License
-
-This project uses the MIT License.
 
 ---
 
