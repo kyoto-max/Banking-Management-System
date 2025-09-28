@@ -42,4 +42,3 @@ This is a simple banking system written in C++. You can open accounts, check bal
 
 ---
 
-If you want, I can help you add screenshots or more details!
